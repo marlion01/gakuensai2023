@@ -30,7 +30,9 @@
         "itemPrice":450,
         "itemDescription":"辛いからあげ"
       },
-      {
+    ]
+    },
+    {
     "shopId":2,
     "shopName":"たこやき",
     "shopDetails":"たこやきの店",
@@ -53,5 +55,6 @@
       }
     ]
     }
+
   ]
 }
