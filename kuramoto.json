@@ -29,32 +29,8 @@
         "itemName":"辛からあげ",
         "itemPrice":450,
         "itemDescription":"辛いからあげ"
-      },
-    ]
-    },
-    {
-    "shopId":2,
-    "shopName":"たこやき",
-    "shopDetails":"たこやきの店",
-    "shopPlace":{
-      "Lat":34.075788483939384, 
-      "Lng":134.52048952833434
-    },
-    "items":[
-      {
-        "itemId":1,
-        "itemName":"たこ焼き",
-        "itemPrice":300,
-        "itemDescription":"普通のたこやき"
-      },
-      {
-        "itemId":2,
-        "itemName":"辛たこやき",
-        "itemPrice":450,
-        "itemDescription":"辛いたこやき"
       }
     ]
     }
-
   ]
 }
