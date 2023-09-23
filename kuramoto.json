@@ -16,7 +16,7 @@
     "shopPlace":{
       "Lag":34.075788483939384, 
       "Lng":134.52048952833434,
-    }
+    },
     "items":[
       {
         "itemId":1
@@ -26,13 +26,13 @@
         "itemImage":"",
       },
       {
-        "itemId":2
-        "itemName":"辛からあげ"
+        "itemId":2,
+        "itemName":"辛からあげ",
         "itemPrice":450,
-        "itemDescription":"辛いからあげ"
+        "itemDescription":"辛いからあげ",
         "itemImage":"",
       },
     ]
     },
   ]
-}
+},
