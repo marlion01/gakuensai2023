@@ -1,12 +1,12 @@
 {
   "date":{
     "start_date":22,
-    "end_date":23,
+    "end_date":23
   },
   "googlemapsShema":{
     "Lag":34.07551316516718,
     "Lng":134.51826818510713,
-    "zoom":13,
+    "zoom":13
   },
   "shops":[
     {
@@ -15,7 +15,7 @@
     "shopDetails":"からあげ",
     "shopPlace":{
       "Lag":34.075788483939384, 
-      "Lng":134.52048952833434,
+      "Lng":134.52048952833434
     },
     "items":[
       {
@@ -23,16 +23,16 @@
         "itemName":"からあげ"
         "itemPrice":300,
         "itemDescription":"普通のからあげ",
-        "itemImage":"",
+        "itemImage":""
       },
       {
         "itemId":2,
         "itemName":"辛からあげ",
         "itemPrice":450,
         "itemDescription":"辛いからあげ",
-        "itemImage":"",
-      },
+        "itemImage":""
+      }
     ]
-    },
+    }
   ]
-},
+}
