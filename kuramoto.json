@@ -31,6 +31,29 @@
         "itemDescription":"辛いからあげ"
       }
     ]
+    },
+    {
+    "shopId":2,
+    "shopName":"からあげ店",
+    "shopDetails":"からあげ",
+    "shopPlace":{
+      "Lat":34.075788483, 
+      "Lng":134.5204
+    },
+    "items":[
+      {
+        "itemId":1,
+        "itemName":"からあげ",
+        "itemPrice":300,
+        "itemDescription":"普通のからあげ"
+      },
+      {
+        "itemId":2,
+        "itemName":"辛からあげ",
+        "itemPrice":450,
+        "itemDescription":"辛いからあげ"
+      }
+    ]
     }
   ]
 }
