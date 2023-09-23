@@ -23,14 +23,12 @@
         "itemName":"からあげ"
         "itemPrice":300,
         "itemDescription":"普通のからあげ",
-        "itemImage":""
       },
       {
         "itemId":2,
         "itemName":"辛からあげ",
         "itemPrice":450,
         "itemDescription":"辛いからあげ",
-        "itemImage":""
       }
     ]
     }
