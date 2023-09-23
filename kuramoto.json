@@ -19,8 +19,8 @@
     },
     "items":[
       {
-        "itemId":1
-        "itemName":"からあげ"
+        "itemId":1,
+        "itemName":"からあげ",
         "itemPrice":300,
         "itemDescription":"普通のからあげ"
       },
@@ -31,5 +31,6 @@
         "itemDescription":"辛いからあげ"
       }
     ]
+    }
   ]
 }
