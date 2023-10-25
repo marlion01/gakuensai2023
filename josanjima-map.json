@@ -1,1 +1,11 @@
-
+{
+  "date":{
+    "start_date":22,
+    "end_date":23
+  },
+  "googlemapsShema":{
+    "Lat":34.07551316516718,
+    "Lng":134.51826818510713,
+    "zoom":13
+  }
+}
